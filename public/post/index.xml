@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://hugo.blakeanneberg.com/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jul 2022 19:58:05 -0600</lastBuildDate><atom:link href="https://hugo.blakeanneberg.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Land</title>
+      <link>https://hugo.blakeanneberg.com/post/land/</link>
+      <pubDate>Sun, 03 Jul 2022 19:58:05 -0600</pubDate>
+      
+      <guid>https://hugo.blakeanneberg.com/post/land/</guid>
+      <description>I need to buy land. that is probably the thing i most need to do..</description>
+    </item>
+    
+    <item>
+      <title>Mud Straw</title>
+      <link>https://hugo.blakeanneberg.com/post/mud-straw/</link>
+      <pubDate>Sun, 03 Jul 2022 16:14:50 -0600</pubDate>
+      
+      <guid>https://hugo.blakeanneberg.com/post/mud-straw/</guid>
+      <description>When I think of what will happen in the future, I think that making buildings where we can live in is the most inportant thing we can do.
+I think these buildings should be made of mud or straw as these are elements that can be broken down the easiest.
+I hope build a house some day.
+:-)</description>
+    </item>
+    
+  </channel>
+</rss>

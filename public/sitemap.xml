@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hugo.blakeanneberg.com/</loc>
+    <lastmod>2022-07-03T20:29:37-06:00</lastmod>
+  </url><url>
+    <loc>https://hugo.blakeanneberg.com/posts/</loc>
+    <lastmod>2022-07-03T20:29:37-06:00</lastmod>
+  </url><url>
+    <loc>https://hugo.blakeanneberg.com/posts/water/</loc>
+    <lastmod>2022-07-03T20:29:37-06:00</lastmod>
+  </url><url>
+    <loc>https://hugo.blakeanneberg.com/post/land/</loc>
+    <lastmod>2022-07-03T19:58:05-06:00</lastmod>
+  </url><url>
+    <loc>https://hugo.blakeanneberg.com/post/</loc>
+    <lastmod>2022-07-03T19:58:05-06:00</lastmod>
+  </url><url>
+    <loc>https://hugo.blakeanneberg.com/post/mud-straw/</loc>
+    <lastmod>2022-07-03T16:14:50-06:00</lastmod>
+  </url><url>
+    <loc>https://hugo.blakeanneberg.com/categories/</loc>
+  </url><url>
+    <loc>https://hugo.blakeanneberg.com/tags/</loc>
+  </url>
+</urlset>
